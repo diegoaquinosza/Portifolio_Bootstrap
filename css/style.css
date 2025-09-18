@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  justify-items: center;
+}
+
+h1, h2, p, a{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.trabalhos, nav{
+    /* margin-left: 5% !important;
+    margin-right: 5% !important; */
+    text-align: center !important;
+    justify-content: center !important;
+}
+
+.imgperfil{
+    width: 10rem;
+}
+
+.imgsite{
+    width: 20rem;
+}
+
+hr{
+    width: 20rem;
+    border-color: #f8f8f8;
+}
