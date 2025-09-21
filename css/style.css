@@ -24,19 +24,14 @@ nav{
     justify-content: center !important;
     display: flex;
     flex-wrap: wrap;
-    /* justify-content: space-between; */
 }
 
 .trabalhos {
-    /* margin-left: 5% !important;
-    margin-right: 5% !important; */
     text-align: center !important;
     justify-content: center !important;
     display: flex;
     flex-wrap: wrap;
 }
-
-
 
 /* #sobre {
   height: 250px !important;
